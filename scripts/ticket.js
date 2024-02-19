@@ -37,7 +37,7 @@ function handleClickEvent(seatId){
         newRow.appendChild(seatCell);
         newRow.appendChild(classCell);
         newRow.appendChild(priceCell);
-        // Append the new row to the table body
+        // Append the new row to the table body 
         tableBody.appendChild(newRow);
         
         //Price update
