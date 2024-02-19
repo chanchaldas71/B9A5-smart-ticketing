@@ -64,6 +64,7 @@ function discount(){
     }
 }
 
+
 function thankYou(){
     hideElementById('body');
     showElementById('thanks');
